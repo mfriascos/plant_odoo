@@ -2,7 +2,6 @@
 #
 #    OpenERP, Open Source Management Solution
 #    This module copyright (C) 2023 Mario Fernando Riascos
-#    (<http://www.marlonfalcon.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
