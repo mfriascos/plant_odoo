@@ -1,7 +1,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    This module copyright (C) 2018 Marlon Falcon Hernandez
+#    This module copyright (C) 2023 Mario Fernando Riascos
 #    (<http://www.marlonfalcon.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -22,9 +22,9 @@
 {
     'name': 'Father MFH',
     'version': '16.0.1.0.0',
-    'author': 'Marlon Falcon Hernandez',
-    'maintainer': 'Marlon Falcon Hernandez',
-    'website': 'http://www.marlonfalcon.com',
+    'author': 'Mario Fernando Riascos',
+    'maintainer': 'Mario Fernando Riascos',
+    'website': 'mfriascos.github.io',
     'license': 'AGPL-3',
     'category': 'Extra Tools',
     'summary': 'Father.',
